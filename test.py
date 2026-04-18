@@ -19,7 +19,7 @@ class ImageDrawingEvolutionary:
         return img
 
     @classmethod
-    def generate_np_from_img(self, image_name):
+    def a (self, image_name):
         img = cv2.imread(image_name)
         array = cv2.cvtColor(img, cv2.COLOR_BGR2RGB)
 
