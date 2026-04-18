@@ -19,7 +19,7 @@
 # 보고서
 ![tabel]
 # 인공신경망 사진
-![tabel]
+![tabel](image/label_.png) 
 ## Genentic_Algorithm.py
 #### 활성화 함수
 - ReLU
