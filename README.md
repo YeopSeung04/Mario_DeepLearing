@@ -101,3 +101,4 @@ output = sigmoid(np.matmul(self.l1, self.w2) + self.b2)</code></pre>
 
 
 
+
